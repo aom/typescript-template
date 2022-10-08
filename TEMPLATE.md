@@ -26,3 +26,9 @@ https://github.com/prettier/eslint-plugin-prettier#recommended-configuration
 Prettier can use rules from EditorConfig
 
 https://prettier.io/docs/en/configuration.html#editorconfig
+
+## Testing
+
+`jest`, `ts-jest`
+
+https://jestjs.io/docs/getting-started
