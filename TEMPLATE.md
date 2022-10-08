@@ -1,5 +1,17 @@
 # Template
 
+## Node
+
+`nodenv`
+
+https://github.com/nodenv/nodenv
+
+Install nodenv from Brewfile
+
+    brew bundle
+
+https://github.com/Homebrew/homebrew-bundle
+
 ## Typescript
 
 `typescript`, `ts-node`
